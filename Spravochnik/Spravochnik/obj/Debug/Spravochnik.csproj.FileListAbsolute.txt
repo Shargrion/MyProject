@@ -1,0 +1,12 @@
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\bin\Debug\LocalDB.mdf
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\bin\Debug\LocalDB_log.ldf
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.AddRastenie.resources
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Vlad\Desktop\TEST\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache

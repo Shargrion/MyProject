@@ -1,0 +1,53 @@
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.RegForm.resources
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.MainForm.resources
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\Vlad\Desktop\TEST\Diplom\Diplom\obj\Debug\Diplom.AdminForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\bin\Debug\Properties\Settings.settings
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.AddFileForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.AddUserForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.EditBookForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.EditUserForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.MainForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.OpenFileForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.OpenUserForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.RegForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.UserLogForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.SettingForm.resources
+C:\Users\Vlad\Google Диск\TEST\Diplom\Diplom\obj\Debug\Diplom.UserRoomForm.resources
+E:\Git\R2D2\Diplom\Diplom\bin\Debug\Properties\Settings.Designer.cs
+E:\Git\R2D2\Diplom\Diplom\bin\Debug\Properties\Settings.settings
+E:\Git\R2D2\Diplom\Diplom\bin\Debug\Diplom.exe.config
+E:\Git\R2D2\Diplom\Diplom\bin\Debug\Diplom.exe
+E:\Git\R2D2\Diplom\Diplom\bin\Debug\Diplom.pdb
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.AddFileForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.AddUserForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.EditBookForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.EditUserForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.MainForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.OpenFileForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.OpenUserForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.RegForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.SettingForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.UserLogForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.UserRoomForm.resources
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.exe
+E:\Git\R2D2\Diplom\Diplom\obj\Debug\Diplom.pdb
